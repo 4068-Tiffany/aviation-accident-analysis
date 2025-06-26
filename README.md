@@ -12,9 +12,7 @@ The aviation industry relies heavily on safety, and understanding historical acc
   - Summary presentation for stakeholders
   - A complete dashboard displaying key metrics
 
-## Repository Structure
-
-##  Dashboard Preview
+## Dashboard Preview
 
 ![Dashboard Screenshot](pictures/tableau_dashboard.png)
 
